@@ -1,0 +1,4 @@
+route,grid,team,window,skill,access
+R1,G1,T1,dawn,soil,permit
+R2,G2,T1,dusk,soil,weather_hold
+R3,G3,T2,dawn,soil,open

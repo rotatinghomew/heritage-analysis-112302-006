@@ -1,0 +1,6 @@
+grid,area,period,method,planned,visited,visibility,incident,source
+G1,10,wet,walk,yes,yes,clear,yes,random
+G1,10,wet,aerial,yes,yes,blocked,unknown,random
+G2,8,wet,walk,yes,no,unknown,unknown,
+G2,8,wet,report,no,no,clear,yes,public
+G3,12,dry,review,yes,yes,clear,yes,double_review
